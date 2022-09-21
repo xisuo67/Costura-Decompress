@@ -5,6 +5,6 @@ This simple utility uses the .NET de-compression library available in .NET 4.5 a
 
 ## License
 
-[MIT](https://github.com/xisuo67/Costura-Decompress/LICENSE)
+[MIT](https://github.com/xisuo67/Costura-Decompress/blob/main/LICENSE)
 
 Copyright (c) 2022-present xisuo67

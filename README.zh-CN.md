@@ -6,6 +6,6 @@
 
 ## License
 
-[MIT](https://github.com/xisuo67/Costura-Decompress/LICENSE)
+[MIT](https://github.com/xisuo67/Costura-Decompress/blob/main/LICENSE)
 
 Copyright (c) 2022-present xisuo67
