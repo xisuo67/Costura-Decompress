@@ -14,3 +14,4 @@ NuGet.exe
 *.ide/
 *.lock.json
 *.coverage
+/packages
